@@ -1,11 +1,11 @@
 import React from "react";
 
-function Service() {
+function About() {
   return (
     <div className="App">
-      <h1>Welcome to service</h1>
+      <h1>Welcome to About</h1>
     </div>
   );
 }
 
-export default Service;
+export default About;
